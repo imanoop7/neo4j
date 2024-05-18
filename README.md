@@ -1,4 +1,4 @@
-# Neo4j by LangChain
+# Neo4j with LangChain
 
 Welcome to the **Neo4j with LangChain** repository! In this project, we explore Neo4j, the world's leading graph database. Whether you're new to graph databases or an experienced user, this repository provides essential resources and examples for working with Neo4j.
 
