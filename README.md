@@ -11,6 +11,7 @@ Welcome to the **Neo4j with LangChain** repository! In this project, we explore 
 ## Repository Structure
 
 - `neo_4j_langchain.ipynb`: A Jupyter Notebook demonstrating how to set up and interact with Neo4j using Python.
+- `neo4j_knowledge_graph.ipynb` : A Jupyter Notebook demonstrating how to set up and interact with Neo4j using Groq LLM.
 - `LICENSE`: MIT license information for this repository.
 - `README.md`: You're reading it! 😊
 
