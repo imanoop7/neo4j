@@ -21,6 +21,7 @@ Welcome to the **Neo4j with LangChain** repository! In this project, we explore 
 
 2. **Explore the provided notebook**:
    - `neo_4j_langchain.ipynb`: Practical examples and demonstrations for using Neo4j.
+   - `neo4j_knowledge_graph.ipynb`: using groq 
 
 3. **Install Dependencies**:
    - Ensure you have Python and the necessary Neo4j drivers installed.
